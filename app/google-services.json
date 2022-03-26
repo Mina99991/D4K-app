@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591081032888",
+    "firebase_url": "https://d-for-k-1e383-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "d-for-k-1e383",
+    "storage_bucket": "d-for-k-1e383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591081032888:android:2761538aea02315b08f84d",
+        "android_client_info": {
+          "package_name": "com.mina.d4k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591081032888-j004i151b6mj7115r7evs1ucddbn9n5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaN5r8fM7NFGGAcUz1LzK12E_HhxrYGRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591081032888-j004i151b6mj7115r7evs1ucddbn9n5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
